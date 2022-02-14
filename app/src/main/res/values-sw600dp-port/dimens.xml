@@ -419,4 +419,8 @@
   <dimen name="revision_card_fragment_layout_text_margin_top">36dp</dimen>
   <dimen name="revision_card_fragment_layout_button_margin_top">48dp</dimen>
 
+  <!-- Options story text size -->
+  <dimen name="option_story_text_size_padding_start">16dp</dimen>
+  <dimen name="option_story_text_size_padding_end">16dp</dimen>
+
 </resources>
